@@ -19,8 +19,8 @@ This repository is the code base for:
 ## GWAS
 
 ## Computer Vision
-1. [Computer Vision](Sorghum/Computer Vision/)
-    - [torchvision.ipynb](Sorghum/Computer Vision/torchvision.ipynb): commit
+1. [Computer Vision](michaelSkaro/Sorghum/Computer%20Vision/)
+    - [torchvision.ipynb](michaelSkaro/Sorghum/Computer%20Vision/torchvision.ipynb): commit
 
 
 ## Climatology
