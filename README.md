@@ -20,6 +20,6 @@ This repository is the code base for:
 
 ## Computer Vision
 
-(Computer Vision)(Sorghum/Computer Vision/torchvision.ipynb
+[Computer Vision](Sorghum/Computer Vision/torchvision.ipynb
     - [torchvision.ipynb](Sorghum/Computer Vision/torchvision.ipynb): commit
 ## Climatology
