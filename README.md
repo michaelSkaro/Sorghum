@@ -20,6 +20,6 @@ This repository is the code base for:
 
 ## Computer Vision
 
-[Cancer vs. Cancer Classification](cancer-vs-cancer-classification)
+[Object Detection](Computer Vision)
     - [torchvision.ipynb](Sorghum/Computer Vision/torchvision.ipynb): commit
 ## Climatology
