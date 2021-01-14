@@ -21,6 +21,6 @@ This repository is the code base for:
 ## Computer Vision
  [Computer_Vision](Computer_Vision)
  
-   - [torchvision.ipynb](Computer_Vision/torchvision.ipynb): Step by step walk through for the torchvision for object dtection. The architecture framework will be recapitulated in the root imaging project to detect the AMF fungi in sybiosis with the sorghum roots.
+   - [torchvision.ipynb](Computer_Vision/torchvision.ipynb): Step by step walk through for the torchvision for object detection. The architecture framework will be recapitulated in the root imaging project to detect the AMF fungi in sybiosis with the sorghum roots.
 
 ## Climatology
